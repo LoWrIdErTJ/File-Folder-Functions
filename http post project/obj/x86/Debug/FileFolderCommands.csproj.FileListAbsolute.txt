@@ -1,0 +1,14 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\bin\Debug\FileFolderCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\bin\Debug\FileFolderCommands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\obj\x86\Debug\CSVtoHTML.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\bin\Debug\FileFolderCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\bin\Debug\FileFolderCommands.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\obj\x86\Debug\CSVtoHTML.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\File Folder Functions2\http post project\obj\x86\Debug\FileFolderCommands.pdb
